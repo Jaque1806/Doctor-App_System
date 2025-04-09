@@ -73,7 +73,7 @@ Add the necessary tables and data that your React application will interact with
 
 1. Open the existing React project folder in VS Code.
 
-2. Ensure Node.js and npm(Node Package Manager) are installed.
+2. Ensure Node.js (v22.14.0) and npm(Node Package Manager) are installed.
 
 3. Install the required dependencies by running npm install.
 
